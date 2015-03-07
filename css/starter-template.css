@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.startertop {
+	padding: 20px 20px 10px;
+}
+
+.startermain {
+	padding: 10px 15px;
+}
+
+.afterClick {
+	padding: 10px 10px;
+}
